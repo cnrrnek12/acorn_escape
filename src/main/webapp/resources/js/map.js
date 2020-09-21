@@ -41,6 +41,7 @@ if(path.split("#")[1] == "/hongdae"){
 }else{
 	x=37.553419;
 	y=126.920605;
+	context= '<div style="padding:5px;"><h1><span class="badge badge-info">ACORN 이스케이프  홍대점</span></h1><br/><img src="../resources/images/unnamed.png" /><br/><h5 class="text-center" style="color:black;">지금 바로 탈출해 보세요!</h5> </div>';
 }
 
 var container = document.getElementById('map');
